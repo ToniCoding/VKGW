@@ -22,3 +22,5 @@ I'll keep updating this program as time passes (I don't have much time but I'll 
 * Upper case characters.
 * Convert more than one message without need of restarting the program.
 * Key combos (shortcuts).
+
+###### Version 1.0.0.
