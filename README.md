@@ -23,4 +23,4 @@ I'll keep updating this program as time passes (I don't have much time but I'll 
 * Convert more than one message without need of restarting the program.
 * Key combos (shortcuts).
 
-###### Version 1.0.0.
+###### Version 1.0.0. Changelog will be created after the very first update.
