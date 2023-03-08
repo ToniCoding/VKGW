@@ -1,5 +1,5 @@
 // Includes.
-#include "./incluSing.cpp";
+#include "./incluSing.cpp"
 
 // Translator function. Translates character by character the message taken by parameter.
 void translator(string message) {
