@@ -1,5 +1,5 @@
 // Includes.
-#include "./incluSing.cpp"
+#include "./incluSing.cpp";
 
 // Translator function. Translates character by character the message taken by parameter.
 void translator(string message) {
@@ -29,7 +29,7 @@ void translator(string message) {
 				string arrayTrackerStr = to_string(arrayTracker);
 				auto currReference = reference.substr(2, 5);
 				string VKType = inputArrayName + "[" + arrayTrackerStr + "].type=INPUT_KEYBOARD";
-				string VKStroke = inputArrayName + "[" + arrayTrackerStr + "].ki.mVk=" + currReference;
+				string VKStroke = inputArrayName + "[" + arrayTrackerStr + "].ki.wVk=" + currReference;
 				cout << VKType << endl;
 				cout << VKStroke << endl;
 				codeFile << VKType << endl;
